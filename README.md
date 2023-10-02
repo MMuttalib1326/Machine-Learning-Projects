@@ -1,6 +1,4 @@
 
-
-
 # Machine Learning Projects
 ![image](https://favtutor.com/resources/images/uploads/deep_learning_projects.png)
 
